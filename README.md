@@ -40,3 +40,4 @@ npm run dev
 - The backend calls the public OSRM demo server (router.project-osrm.org). For production, self-host OSRM or use a paid routing provider.
 - The ML model is trained on synthetic data (train_model.py). Replace with real telemetry for better accuracy.
 - OpenStreetMap Nominatim geocoding is used in the frontend for address -> lat/lon. Respect rate limits.
+"# ecoRoute-dummyocean" 
